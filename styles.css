@@ -52,5 +52,5 @@
   .document:hover{
     transform: translateX(-3px);
     cursor: pointer;
-    box-shadow: var(--light) 0px 0px 8px;
+    transform: scale(1.1);
   }
